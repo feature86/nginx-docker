@@ -1,5 +1,5 @@
 FROM nginx:1.19.9-alpine
-LABEL maintainer="feature486@gmail.com"
+LABEL maintainer="feature86"
 
 
 RUN mkdir -p /etc/nginx/sites-enabled
